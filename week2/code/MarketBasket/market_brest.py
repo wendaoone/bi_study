@@ -16,9 +16,9 @@ for items in itemsets:
             itemDits[item] = itemDits[item] + 1
 itemDits = sorted(itemDits.items(), key=lambda item:item[1], reverse=True)
 # print(itemDits)
-# tree,ranks=fp.build_tree(itemsets,356)
-# print(sorted(ranks, key=lambda item:item[1], reverse=True))
-# ss=fp.frequent_itemsets(itemsets,356)
+tree,ranks=fp.build_tree(itemsets,356)
+print(sorted(ranks, key=lambda item:item[1], reverse=True))
+ss=fp.frequent_itemsets(itemsets,356)
 #
 # fis=[iset for iset in ss]
 # mfis=[iset for iset in fp.maximal_frequent_itemsets(itemsets,356)]
