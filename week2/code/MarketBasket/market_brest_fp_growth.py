@@ -202,8 +202,10 @@ class tree(object):
          然后根据最小支持度预集合得到最终频繁项集
         """
         minCount = min_sup * self.transaction_count
+        result_items_list =[]
         for item in reversed(items_list):
             result = self.condition_frequent_item(self.fpNodeDict.get(item[0]),item[1], minCount)
+            
             if len(result) > 0:
                 print("条件模式基商品为：{},对应的可推荐的{}".format(item[0],result))
 
@@ -215,4 +217,4 @@ if __name__ == "__main__":
     orgItemList = loadUseAbleData()
     itemsList = directItem(orgItemList, 0.0056, 100)
     itemDict, orgItemList = sortedAndFiltter(itemsList, orgItemList)
-    tree(itemDict, len(orgItemList)).build_tree(orgItemList).frequent_item_sets(itemsList, 0.0056)
+    tree=tree(itemDict, len(orgItemList)).build_tree(orgItemList).frequent_item_sets(itemsList, 0.0056)
