@@ -20,6 +20,7 @@ def getGrammarDict(gram, linesplit = "\n", gramsplit = "=>"):
     #定义字典
     result = {}
 
+
     for line in gram.split(linesplit):
         # 去掉首尾空格后，如果为空则退出
         if not line.strip(): 
@@ -44,7 +45,7 @@ def generate(gramdict, target, isEng = False):
 
 gramdict = getGrammarDict(grammar)
 print(gramdict)
-print(generate(gramdict,"战斗"))
-print(generate(gramdict,"战斗", True))
+# print(generate(gramdict,"战斗"))
+# print(generate(gramdict,"战斗", True))
 
 
