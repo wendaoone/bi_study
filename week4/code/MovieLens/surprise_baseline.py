@@ -4,11 +4,12 @@ from surprise import Reader
 from surprise import BaselineOnly, KNNBasic, NormalPredictor
 from surprise import accuracy
 from surprise.model_selection import KFold
-#import pandas as pd
+
 
 # 数据读取
 reader = Reader(line_format='user item rating timestamp', sep=',', skip_lines=1)
 data = Dataset.load_from_file('./ratings.csv', reader=reader)
+print(data)
 train_set = data.build_full_trainset()
 
 # ALS优化
