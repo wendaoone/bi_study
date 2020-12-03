@@ -20,16 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07679799-c1e9-41ba-9c4e-655a320c3921" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/code.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/code.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MovieLens/surprise_baseline.py" beforeDir="false" afterPath="$PROJECT_DIR$/MovieLens/surprise_baseline.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/map/map1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/map/map2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/series/series1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/syntax_tree/expr_syntax.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/syntax_tree/hero_syntax.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/syntax_tree/hero_syntax.py" beforeDir="false" afterPath="$PROJECT_DIR$/syntax_tree/hero_syntax.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../作业.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../作业.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +46,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
-  <component name="RunManager" selected="Python.surprise_baseline">
+  <component name="RunManager" selected="Python.hero_syntax">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="code" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -93,6 +85,28 @@
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dataframe/dataframe2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hero_syntax" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/syntax_tree" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/syntax_tree/hero_syntax.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -145,6 +159,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.hero_syntax" />
         <item itemvalue="Python.surprise_baseline" />
         <item itemvalue="Python.dataframe2" />
       </list>
@@ -158,7 +173,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606980913922</updated>
-      <workItem from="1606980914989" duration="5734000" />
+      <workItem from="1606980914989" duration="6885000" />
     </task>
     <servers />
   </component>
@@ -180,40 +195,41 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1742" height="330" key="GridCell.Tab.0.bottom" timestamp="1606989143973">
+    <state width="1742" height="242" key="GridCell.Tab.0.bottom" timestamp="1607009291723">
       <screen x="0" y="25" width="1792" height="996" />
     </state>
-    <state width="1742" height="330" key="GridCell.Tab.0.bottom/0.25.1792.996@0.25.1792.996" timestamp="1606989143973" />
-    <state width="1742" height="330" key="GridCell.Tab.0.center" timestamp="1606989143972">
+    <state width="1742" height="242" key="GridCell.Tab.0.bottom/0.25.1792.996@0.25.1792.996" timestamp="1607009291723" />
+    <state width="1742" height="242" key="GridCell.Tab.0.center" timestamp="1607009291722">
       <screen x="0" y="25" width="1792" height="996" />
     </state>
-    <state width="1742" height="330" key="GridCell.Tab.0.center/0.25.1792.996@0.25.1792.996" timestamp="1606989143972" />
-    <state width="1742" height="330" key="GridCell.Tab.0.left" timestamp="1606989143972">
+    <state width="1742" height="242" key="GridCell.Tab.0.center/0.25.1792.996@0.25.1792.996" timestamp="1607009291722" />
+    <state width="1742" height="242" key="GridCell.Tab.0.left" timestamp="1607009291722">
       <screen x="0" y="25" width="1792" height="996" />
     </state>
-    <state width="1742" height="330" key="GridCell.Tab.0.left/0.25.1792.996@0.25.1792.996" timestamp="1606989143972" />
-    <state width="1742" height="330" key="GridCell.Tab.0.right" timestamp="1606989143973">
+    <state width="1742" height="242" key="GridCell.Tab.0.left/0.25.1792.996@0.25.1792.996" timestamp="1607009291722" />
+    <state width="1742" height="242" key="GridCell.Tab.0.right" timestamp="1607009291723">
       <screen x="0" y="25" width="1792" height="996" />
     </state>
-    <state width="1742" height="330" key="GridCell.Tab.0.right/0.25.1792.996@0.25.1792.996" timestamp="1606989143973" />
-    <state width="1742" height="330" key="GridCell.Tab.1.bottom" timestamp="1606989143887">
+    <state width="1742" height="242" key="GridCell.Tab.0.right/0.25.1792.996@0.25.1792.996" timestamp="1607009291723" />
+    <state width="1742" height="242" key="GridCell.Tab.1.bottom" timestamp="1607009291634">
       <screen x="0" y="25" width="1792" height="996" />
     </state>
-    <state width="1742" height="330" key="GridCell.Tab.1.bottom/0.25.1792.996@0.25.1792.996" timestamp="1606989143887" />
-    <state width="1742" height="330" key="GridCell.Tab.1.center" timestamp="1606989143887">
+    <state width="1742" height="242" key="GridCell.Tab.1.bottom/0.25.1792.996@0.25.1792.996" timestamp="1607009291634" />
+    <state width="1742" height="242" key="GridCell.Tab.1.center" timestamp="1607009291634">
       <screen x="0" y="25" width="1792" height="996" />
     </state>
-    <state width="1742" height="330" key="GridCell.Tab.1.center/0.25.1792.996@0.25.1792.996" timestamp="1606989143887" />
-    <state width="1742" height="330" key="GridCell.Tab.1.left" timestamp="1606989143886">
+    <state width="1742" height="242" key="GridCell.Tab.1.center/0.25.1792.996@0.25.1792.996" timestamp="1607009291634" />
+    <state width="1742" height="242" key="GridCell.Tab.1.left" timestamp="1607009291634">
       <screen x="0" y="25" width="1792" height="996" />
     </state>
-    <state width="1742" height="330" key="GridCell.Tab.1.left/0.25.1792.996@0.25.1792.996" timestamp="1606989143886" />
-    <state width="1742" height="330" key="GridCell.Tab.1.right" timestamp="1606989143887">
+    <state width="1742" height="242" key="GridCell.Tab.1.left/0.25.1792.996@0.25.1792.996" timestamp="1607009291634" />
+    <state width="1742" height="242" key="GridCell.Tab.1.right" timestamp="1607009291634">
       <screen x="0" y="25" width="1792" height="996" />
     </state>
-    <state width="1742" height="330" key="GridCell.Tab.1.right/0.25.1792.996@0.25.1792.996" timestamp="1606989143887" />
+    <state width="1742" height="242" key="GridCell.Tab.1.right/0.25.1792.996@0.25.1792.996" timestamp="1607009291634" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/code$hero_syntax.coverage" NAME="hero_syntax Coverage Results" MODIFIED="1607009291601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/syntax_tree" />
     <SUITE FILE_PATH="coverage/code$main.coverage" NAME="main Coverage Results" MODIFIED="1606988992929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/code$surprise_baseline.coverage" NAME="surprise_baseline Coverage Results" MODIFIED="1606989143835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MovieLens" />
   </component>

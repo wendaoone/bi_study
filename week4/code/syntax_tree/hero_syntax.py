@@ -14,6 +14,7 @@ grammar = '''
 状态 => 法力 | 生命
 '''
 
+
 # 得到语法字典
 def getGrammarDict(gram, linesplit = "\n", gramsplit = "=>"):
     #定义字典
@@ -25,8 +26,9 @@ def getGrammarDict(gram, linesplit = "\n", gramsplit = "=>"):
             continue
         expr, statement = line.split(gramsplit)
         result[expr.strip()] = [i.split() for i in statement.split("|")]
-    #print(result)
+    print(result)
     return result
+
 
 # 生成句子
 def generate(gramdict, target, isEng = False):
@@ -41,6 +43,7 @@ def generate(gramdict, target, isEng = False):
     return blank.join(generate(gramdict, t, isEng) for t in find)
 
 gramdict = getGrammarDict(grammar)
+print(gramdict)
 print(generate(gramdict,"战斗"))
 print(generate(gramdict,"战斗", True))
 
