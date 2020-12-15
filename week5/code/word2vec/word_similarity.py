@@ -8,7 +8,7 @@ import multiprocessing
 segment_folder = './journey_to_the_west/segment'
 sentences = word2vec.PathLineSentences(segment_folder)
 
-# 设置模型参数，进行训练
+
 model = word2vec.Word2Vec(sentences, size=100, window=3, min_count=1)
 print(model.wv.similarity('孙悟空', '猪八戒'))
 print(model.wv.similarity('孙悟空', '孙行者'))

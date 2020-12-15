@@ -8,5 +8,5 @@ import os
 rmbg = RemoveBg("mid9DALnQhYqcFxfmUjPm1HX", "error.log")
 path = os.path.join(os.getcwd(),'images')#图片放到程序的同级文件夹images 里面
 for pic in os.listdir(path):
-	#print(pic)
-    rmbg.remove_background_from_img_file(f"{path}\{pic}")
+	# print(pic)
+    rmbg.remove_background_from_img_file(f"{path}/{pic}")

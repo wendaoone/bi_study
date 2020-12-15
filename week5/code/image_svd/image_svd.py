@@ -1,10 +1,12 @@
+import matplotlib
 import numpy as np
+from matplotlib.font_manager import FontProperties
 from scipy.linalg import svd
 from PIL import Image
 import matplotlib.pyplot as plt
 
 # 取前k个特征，对图像进行还原
-def get_image_feature(s, k):
+def get_image_feature(s, k,t):
 	# 对于S，只保留前K个特征值
 	s_temp = np.zeros(s.shape[0])
 	s_temp[0:k] = s[0:k]
@@ -13,12 +15,16 @@ def get_image_feature(s, k):
 	temp = np.dot(p,s)
 	temp = np.dot(temp,q)
 	plt.imshow(temp, cmap=plt.cm.gray, interpolation='nearest')
+	myfont = FontProperties(fname='./wqy-zenhei.ttc')
+	# 解决负号'-'显示为方块的问题
+	matplotlib.rcParams['axes.unicode_minus'] = False
+	plt.title(u"前{}%的特征值数量为{}，对应的图片为".format(t*100, k), fontproperties=myfont)
 	plt.show()
-	print(A-temp)
 
 
 # 加载256色图片
-image = Image.open('./256.bmp') 
+image = Image.open('./256.bmp')
+width, height = image.size
 A = np.array(image)
 # 显示原图像
 plt.imshow(A, cmap=plt.cm.gray, interpolation='nearest')
@@ -26,7 +32,13 @@ plt.show()
 # 对图像矩阵A进行奇异值分解，得到p,s,q
 p,s,q = svd(A, full_matrices=False)
 # 取前k个特征，对图像进行还原
-get_image_feature(s, 5)
-get_image_feature(s, 50)
-get_image_feature(s, 500)
+# 1%个特征值
+k =int(min(width, height)*0.01)
+get_image_feature(s, k,0.01)
+# 10%个特征值
+k =int(min(width, height)*0.1)
+get_image_feature(s, k,0.1)
+# 50%个特征值
+k =int(min(width, height)*0.5)
+get_image_feature(s, k,0.5)
 

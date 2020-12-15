@@ -29,7 +29,7 @@ def load_data(filePath):
 img, width, height = load_data('./images/3.jpg')
 
 # 用K-Means对图像进行2聚类
-kmeans =KMeans(n_clusters=2)
+kmeans =KMeans(n_clusters=60)
 print('开始聚类分割')
 kmeans.fit(img)
 label = kmeans.predict(img)
@@ -37,9 +37,10 @@ print('生成分割结果')
 # 将图像聚类结果，转化成图像尺寸的矩阵
 label = label.reshape([width, height])
 # 创建个新图像pic_mark，用来保存图像聚类的结果，并设置不同的灰度值
-pic_mark = image.new("L", (width, height))
+pic_mark = image.new("RGB", (width, height))
+
 for x in range(width):
     for y in range(height):
         # 根据类别设置图像灰度, 类别0 灰度值为255， 类别1 灰度值为127
         pic_mark.putpixel((x, y), int(256/(label[x][y]+1))-1)
-pic_mark.save("3_mark.jpg", "JPEG")
+pic_mark.save("3_mark1.jpg", "JPEG")
