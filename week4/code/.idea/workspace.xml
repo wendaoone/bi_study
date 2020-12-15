@@ -19,11 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07679799-c1e9-41ba-9c4e-655a320c3921" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/syntax_tree/hero_syntax.py" beforeDir="false" afterPath="$PROJECT_DIR$/syntax_tree/hero_syntax.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../作业.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../作业.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="07679799-c1e9-41ba-9c4e-655a320c3921" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -95,6 +91,9 @@
       <module name="code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/syntax_tree" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -172,6 +171,7 @@
       <updated>1606980913922</updated>
       <workItem from="1606980914989" duration="7015000" />
       <workItem from="1607011359965" duration="705000" />
+      <workItem from="1607980366626" duration="150000" />
     </task>
     <servers />
   </component>
