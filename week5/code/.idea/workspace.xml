@@ -20,61 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54a8d7ae-9fae-4829-8a2d-341cb4eaaecb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../mytest/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../mytest/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../mytest/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../mytest/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../mytest/.idea/mytest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../mytest/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../mytest/codeq/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../mytest/codeq/mytest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../mytest/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/week5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/tcode.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/word2vec/three_kingdoms/segment/segment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/word2vec/three_kingdoms/word2Vec.model" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/word2vec/utils/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../week4/code/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week4/code/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.ipynb_checkpoints/作业-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../.ipynb_checkpoints/作业-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../code/MovieLens/deepfm_movielens.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../code/MovieLens/deepfm_movielens_sample.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../code/MovieLens/movie_compute.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../code/MovieLens/movie_ratings.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../code/MovieLens/movielens_sample.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../code/MovieLens/ratings.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../code/MovieLens/ratings_small.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../code/MovieLens/surprise_svd_movielens.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../code/baby_cluster/images/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../code/baby_cluster/kmeans_baby.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../code/baby_cluster/removebg_baby.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../code/credit_default/UCI_Credit_Card.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../code/credit_default/credit_default.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../code/hotel_recommendation/Seattle_Hotels.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../code/hotel_recommendation/hotel_rec.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../code/image_svd/256.bmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../code/image_svd/eig_decomposition.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../code/image_svd/image_svd.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../code/image_svd/svd_decomposition.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../code/image_svd/svd_decomposition2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../code/word2vec/journey_to_the_west/segment/segment_0.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../code/word2vec/journey_to_the_west/source/journey_to_the_west.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../code/word2vec/models/word2Vec.model" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../code/word2vec/three_kingdoms/source/three_kingdoms.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../code/word2vec/utils/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../code/word2vec/utils/create_batch_data.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../code/word2vec/utils/create_word2vec.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../code/word2vec/utils/files_processing.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../code/word2vec/utils/segment.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../code/word2vec/word_seg.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../code/word2vec/word_similarity.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieLens/surprise_svd_movielens.py" beforeDir="false" afterPath="$PROJECT_DIR$/MovieLens/surprise_svd_movielens.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../作业.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../作业.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../随堂笔记.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../随堂笔记.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +57,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.word_similarity">
+  <component name="RunManager" selected="Python.surprise_svd_movielens">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="code" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -174,22 +124,22 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="svd_decomposition" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="code" />
+    <configuration name="surprise_svd_movielens" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="tcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/image_svd" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MovieLens" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/image_svd/svd_decomposition.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MovieLens/surprise_svd_movielens.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -243,17 +193,17 @@
     <list>
       <item itemvalue="Python.files_processing" />
       <item itemvalue="Python.image_svd" />
-      <item itemvalue="Python.svd_decomposition" />
       <item itemvalue="Python.word_seg" />
       <item itemvalue="Python.word_similarity" />
+      <item itemvalue="Python.surprise_svd_movielens" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.surprise_svd_movielens" />
         <item itemvalue="Python.word_similarity" />
         <item itemvalue="Python.word_seg" />
         <item itemvalue="Python.files_processing" />
         <item itemvalue="Python.image_svd" />
-        <item itemvalue="Python.svd_decomposition" />
       </list>
     </recent_temporary>
   </component>
@@ -267,6 +217,7 @@
       <updated>1607980517198</updated>
       <workItem from="1607980518337" duration="13373000" />
       <workItem from="1608017098475" duration="2551000" />
+      <workItem from="1608020469881" duration="3421000" />
     </task>
     <servers />
   </component>
@@ -297,42 +248,42 @@
       <screen x="0" y="25" width="1792" height="996" />
     </state>
     <state x="601" y="329" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1792.996@0.25.1792.996" timestamp="1608010918806" />
-    <state width="953" height="466" key="DebuggerActiveHint" timestamp="1608018259778">
+    <state width="953" height="466" key="DebuggerActiveHint" timestamp="1608023930386">
       <screen x="0" y="25" width="1792" height="996" />
     </state>
-    <state width="953" height="466" key="DebuggerActiveHint/0.25.1792.996@0.25.1792.996" timestamp="1608018259778" />
-    <state width="1742" height="245" key="GridCell.Tab.0.bottom" timestamp="1608018241334">
+    <state width="953" height="466" key="DebuggerActiveHint/0.25.1792.996@0.25.1792.996" timestamp="1608023930386" />
+    <state width="1742" height="245" key="GridCell.Tab.0.bottom" timestamp="1608028756224">
       <screen x="0" y="25" width="1792" height="996" />
     </state>
-    <state width="1742" height="245" key="GridCell.Tab.0.bottom/0.25.1792.996@0.25.1792.996" timestamp="1608018241334" />
-    <state width="1742" height="245" key="GridCell.Tab.0.center" timestamp="1608018241333">
+    <state width="1742" height="245" key="GridCell.Tab.0.bottom/0.25.1792.996@0.25.1792.996" timestamp="1608028756224" />
+    <state width="1742" height="245" key="GridCell.Tab.0.center" timestamp="1608028756223">
       <screen x="0" y="25" width="1792" height="996" />
     </state>
-    <state width="1742" height="245" key="GridCell.Tab.0.center/0.25.1792.996@0.25.1792.996" timestamp="1608018241333" />
-    <state width="1742" height="245" key="GridCell.Tab.0.left" timestamp="1608018241333">
+    <state width="1742" height="245" key="GridCell.Tab.0.center/0.25.1792.996@0.25.1792.996" timestamp="1608028756223" />
+    <state width="1742" height="245" key="GridCell.Tab.0.left" timestamp="1608028756223">
       <screen x="0" y="25" width="1792" height="996" />
     </state>
-    <state width="1742" height="245" key="GridCell.Tab.0.left/0.25.1792.996@0.25.1792.996" timestamp="1608018241333" />
-    <state width="1742" height="245" key="GridCell.Tab.0.right" timestamp="1608018241334">
+    <state width="1742" height="245" key="GridCell.Tab.0.left/0.25.1792.996@0.25.1792.996" timestamp="1608028756223" />
+    <state width="1742" height="245" key="GridCell.Tab.0.right" timestamp="1608028756223">
       <screen x="0" y="25" width="1792" height="996" />
     </state>
-    <state width="1742" height="245" key="GridCell.Tab.0.right/0.25.1792.996@0.25.1792.996" timestamp="1608018241334" />
-    <state width="1742" height="245" key="GridCell.Tab.1.bottom" timestamp="1608018242761">
+    <state width="1742" height="245" key="GridCell.Tab.0.right/0.25.1792.996@0.25.1792.996" timestamp="1608028756223" />
+    <state width="1742" height="245" key="GridCell.Tab.1.bottom" timestamp="1608028756225">
       <screen x="0" y="25" width="1792" height="996" />
     </state>
-    <state width="1742" height="245" key="GridCell.Tab.1.bottom/0.25.1792.996@0.25.1792.996" timestamp="1608018242761" />
-    <state width="1742" height="245" key="GridCell.Tab.1.center" timestamp="1608018242761">
+    <state width="1742" height="245" key="GridCell.Tab.1.bottom/0.25.1792.996@0.25.1792.996" timestamp="1608028756225" />
+    <state width="1742" height="245" key="GridCell.Tab.1.center" timestamp="1608028756224">
       <screen x="0" y="25" width="1792" height="996" />
     </state>
-    <state width="1742" height="245" key="GridCell.Tab.1.center/0.25.1792.996@0.25.1792.996" timestamp="1608018242761" />
-    <state width="1742" height="245" key="GridCell.Tab.1.left" timestamp="1608018242760">
+    <state width="1742" height="245" key="GridCell.Tab.1.center/0.25.1792.996@0.25.1792.996" timestamp="1608028756224" />
+    <state width="1742" height="245" key="GridCell.Tab.1.left" timestamp="1608028756224">
       <screen x="0" y="25" width="1792" height="996" />
     </state>
-    <state width="1742" height="245" key="GridCell.Tab.1.left/0.25.1792.996@0.25.1792.996" timestamp="1608018242760" />
-    <state width="1742" height="245" key="GridCell.Tab.1.right" timestamp="1608018242761">
+    <state width="1742" height="245" key="GridCell.Tab.1.left/0.25.1792.996@0.25.1792.996" timestamp="1608028756224" />
+    <state width="1742" height="245" key="GridCell.Tab.1.right" timestamp="1608028756224">
       <screen x="0" y="25" width="1792" height="996" />
     </state>
-    <state width="1742" height="245" key="GridCell.Tab.1.right/0.25.1792.996@0.25.1792.996" timestamp="1608018242761" />
+    <state width="1742" height="245" key="GridCell.Tab.1.right/0.25.1792.996@0.25.1792.996" timestamp="1608028756224" />
     <state x="601" y="156" width="597" height="735" key="find.popup" timestamp="1608014081583">
       <screen x="0" y="25" width="1792" height="996" />
     </state>
@@ -361,6 +312,7 @@
     <SUITE FILE_PATH="coverage/code$image_svd.coverage" NAME="image_svd Coverage Results" MODIFIED="1607996213013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/image_svd" />
     <SUITE FILE_PATH="coverage/code$kmeans_baby.coverage" NAME="kmeans_baby Coverage Results" MODIFIED="1607985264020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baby_cluster" />
     <SUITE FILE_PATH="coverage/tcode$word_seg.coverage" NAME="word_seg Coverage Results" MODIFIED="1608017440613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/word2vec" />
+    <SUITE FILE_PATH="coverage/code$surprise_svd_movielens.coverage" NAME="surprise_svd_movielens Coverage Results" MODIFIED="1608024184870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MovieLens" />
     <SUITE FILE_PATH="coverage/code$files_processing.coverage" NAME="files_processing Coverage Results" MODIFIED="1608011414947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/word2vec/utils" />
     <SUITE FILE_PATH="coverage/code$word_similarity.coverage" NAME="word_similarity Coverage Results" MODIFIED="1608011434065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/word2vec" />
     <SUITE FILE_PATH="coverage/code$svd_decomposition.coverage" NAME="svd_decomposition Coverage Results" MODIFIED="1607993703690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/image_svd" />
