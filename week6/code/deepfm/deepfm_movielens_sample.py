@@ -6,7 +6,7 @@ from deepctr.models import DeepFM
 from deepctr.inputs import SparseFeat,get_feature_names
 
 #数据加载
-data = pd.read_csv("movielens_sample.txt")
+data = pd.read_csv("code/deepfm/movielens_sample.txt")
 sparse_features = ["movie_id", "user_id", "gender", "age", "occupation", "zip"]
 target = ['rating']
 
